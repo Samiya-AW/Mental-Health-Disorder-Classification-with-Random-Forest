@@ -1,1 +1,1 @@
-# Mental-Disorder-Classification-with-Random-Forest
+# Mental-Health-Disorder-Classification-with-Random-Forest
