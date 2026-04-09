@@ -138,5 +138,3 @@ I have implemented a complete **machine learning model to classify mental disord
   * Provides interpretability for the model
 
 ---
-
-If you want, I can turn this into **CV bullet points or a research-style project description**, which would be perfect for your PhD applications.
